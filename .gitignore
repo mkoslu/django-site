@@ -1,0 +1,7 @@
+*.DS_Store
+*.pyc
+__pycache__
+*.egg-info
+db.sqlite3
+mysite/settings/__init__.py
+mysite/db.sqlite3
